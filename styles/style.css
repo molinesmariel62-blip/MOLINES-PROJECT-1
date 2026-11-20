@@ -86,7 +86,7 @@ body::before {
         ),
         radial-gradient(
             ellipse at 50% 75%,
-            rgba(175, 74, 255, 0.16),
+            rgba(60, 200, 186, 0.16),
             transparent 40%
         );
 
@@ -105,7 +105,7 @@ body::after {
         radial-gradient(1px 1px at 80px 90px, white, transparent),
         radial-gradient(2px 2px at 150px 160px, #9ebaff, transparent),
         radial-gradient(1px 1px at 200px 50px, white, transparent),
-        radial-gradient(2px 2px at 280px 220px, #c6a4ff, transparent),
+        radial-gradient(2px 2px at 280px 220px, #2e65c5, transparent),
         radial-gradient(1px 1px at 350px 120px, white, transparent),
         radial-gradient(2px 2px at 420px 260px, #8cbbff, transparent);
 
